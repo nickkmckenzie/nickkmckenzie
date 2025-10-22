@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Pi-hole - DNS Filtering</b>
+- <b>[Pi-hole - DNS Filtering](https://github.com/nickkmckenzie/Pi-hole-DNS-Filtering)</b>
 
 
 <h2>Certifications</h2>
