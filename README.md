@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Nick!
 
-<!--
-**nickkmckenzie/nickkmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Pi-hole - DNS Filtering</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Certifications</h2>
+
+- [Google Cloud: Cloud Digital Leader](https://www.credly.com/badges/6b3eebe6-c2f6-48fa-baf0-971673a333f6/public_url)
+- [Google Cloud: Associate Cloud Engineer](https://www.credly.com/badges/d9a0aab5-3877-4723-afb1-8f30f8fc45b6/public_url)
+- [Google Cloud: GenerativeAI Leader](https://www.credly.com/badges/80846f7a-3938-4032-8b76-b0973b81ee8f/public_url)
+
+<h2>Connect with me:</h2>
+linkedin: https://www.linkedin.com/in/nicholas-mckenzie1/
